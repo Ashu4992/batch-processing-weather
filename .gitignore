@@ -1,0 +1,15 @@
+# Environments
+venv/
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Project data (raw/processed data shouldn't live in git — it's regenerable, and can get large)
+raw/
+processed/
+
+# IDE
+.idea/
